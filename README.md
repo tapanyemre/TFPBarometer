@@ -1,4 +1,6 @@
-# TFPBarometer: Twitter Public Opinion Barometer on Turkish-American Relations
+# TFPBarometer: 
+
+## Twitter Public Opinion Barometer on Turkish-American Relations
 
 This research aims to analyze the public opinion trends on Twitter, among both Turkish- and English-speaking communities. By using novel techniques, in particular, it studies the prevailing opinions and changes in perceptions about Turkish-American relations among the selected Twitter users who speak on foreign policy issues.
 
