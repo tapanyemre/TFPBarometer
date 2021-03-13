@@ -1,4 +1,4 @@
-# TFPBarometer: 
+# TFP-Barometer Project
 
 ## Twitter Public Opinion Barometer on Turkish-American Relations
 
